@@ -1,0 +1,21 @@
+﻿nome;cel (Ex: 21 9xxxxxxxx);dt_plantao;hora_ent;hora_sai;setor;funcao
+tec_ficticio01;21 912213345;09/05/2024;01:00;23:00;DCN;Sobreaviso
+tec_ficticio02;22 912213346;10/05/2024;01:00;23:00;Torre BA;Sobreaviso
+tec_ficticio03;22 912213347;11/05/2024;01:00;23:00;Seguranca;Sobreaviso
+tec_ficticio04;22 912213348;12/05/2024;01:00;23:00;O&M;Sobreaviso
+tec_ficticio05;22 912213349;13/05/2024;01:00;23:00;Data Center;Sobreaviso
+tec_ficticio06;22 912213345;14/05/2024;01:00;23:00;DCN;Sobreaviso
+tec_ficticio07;23 912213346;15/05/2024;01:00;23:00;Torre BA;Sobreaviso
+tec_ficticio08;23 912213347;16/05/2024;01:00;23:00;Seguranca;Sobreaviso
+tec_ficticio09;23 912213348;17/05/2024;01:00;23:00;O&M;Sobreaviso
+tec_ficticio10;23 912213349;18/05/2024;01:00;23:00;Data Center;Sobreaviso
+tec_ficticio11;23 912213345;19/05/2024;01:00;23:00;DCN;Sobreaviso
+tec_ficticio12;24 912213346;20/05/2024;01:00;23:00;Torre BA;Sobreaviso
+tec_ficticio13;24 912213347;21/05/2024;01:00;23:00;Seguranca;Sobreaviso
+tec_ficticio14;24 912213348;22/05/2024;01:00;23:00;O&M;Sobreaviso
+tec_ficticio15;24 912213349;23/05/2024;01:00;23:00;Data Center;Sobreaviso
+tec_ficticio16;24 912213345;24/05/2024;01:00;23:00;DCN;Sobreaviso
+tec_ficticio17;25 912213346;25/05/2024;01:00;23:00;Torre BA;Sobreaviso
+tec_ficticio18;25 912213347;26/05/2024;01:00;23:00;Seguranca;Sobreaviso
+tec_ficticio19;25 912213348;27/05/2024;01:00;23:00;O&M;Sobreaviso
+tec_ficticio20;25 912213349;28/05/2024;01:00;23:00;Data Center;Sobreaviso
