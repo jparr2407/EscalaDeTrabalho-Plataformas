@@ -2,7 +2,7 @@
 Fui designado na equipe à criar um sistema de escala de trabalho para diversos times da nossa gerência, onde esses times precisavam registrar não somente os dias de escala, mas também os horários de entrada e saída de cada colaborador no dia específico. Esse aplicação foi desenvolvia usando PHP, HTML, CSS e JavaScript.
 Não sou tão familiarizado com PHP, então o código pode não estar 100% adequado às melhores práticas.
 
-Abaixo irei deixar algumas imagens de como a apicação funciona.
+Abaixo irei deixar algumas imagens de como a aplicação funciona.
 
 ## 1. Esse é o index, ou seja, essa é a página principal responsável por te direcionar para as outras.
 ![image](https://github.com/jparr2407/EscalaDeTrabalho-Plataformas/assets/144358738/e8bfe586-1344-4c6d-bd1d-0fa41cae9bfb)
